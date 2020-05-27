@@ -1959,6 +1959,29 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-color: #232323;
 }
+.cid-s0aRPWIDCQ {
+  padding-top: 30px;
+  padding-bottom: 75px;
+  background-color: #232323;
+}
+.cid-s0aRPWIDCQ .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s0aRPWIDCQ .section-text {
+  padding: 2rem 0;
+}
+.cid-s0aRPWIDCQ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s0aRPWIDCQ .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rYfwGXqYcX .navbar {
   padding: .5rem 0;
   background: #232323;
