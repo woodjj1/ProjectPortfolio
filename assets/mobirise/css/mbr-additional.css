@@ -2353,10 +2353,36 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s0aheK7fLR {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #232323, #232323);
+}
+.cid-s0aheK7fLR .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s0aheK7fLR .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rZZafE5aLG {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rZZafE5aLG .mbr-text,
+.cid-rZZafE5aLG blockquote {
+  color: #767676;
+}
+.cid-rZZafE5aLG .mbr-text {
+  color: #efefef;
+}
 .cid-rZZddkb4xC {
   background: #232323;
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 75px;
 }
 .cid-rZZddkb4xC .image-block {
   margin: auto;
@@ -2376,18 +2402,6 @@ section.lazy-placeholder:after {
   .cid-rZZddkb4xC .image-block {
     width: 100% !important;
   }
-}
-.cid-rZZafE5aLG {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #232323;
-}
-.cid-rZZafE5aLG .mbr-text,
-.cid-rZZafE5aLG blockquote {
-  color: #767676;
-}
-.cid-rZZafE5aLG .mbr-text {
-  color: #efefef;
 }
 .cid-rZZrsvOedB {
   background: #232323;
@@ -2417,7 +2431,7 @@ section.lazy-placeholder:after {
   background-color: #232323;
 }
 .cid-rZZjMSlwmY {
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #232323;
 }
@@ -2539,7 +2553,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s02Cfa1l3X {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -2601,9 +2615,31 @@ section.lazy-placeholder:after {
 .cid-s09LbU5jzj .mbr-text {
   color: #efefef;
 }
+.cid-s0agj0N6BL {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #232323, #232323);
+}
+.cid-s0agj0N6BL .image-block {
+  margin: auto;
+}
+.cid-s0agj0N6BL figcaption {
+  position: relative;
+}
+.cid-s0agj0N6BL figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s0agj0N6BL .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s09LF4VpIB {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 .cid-s09LF4VpIB .mbr-text,
@@ -2632,6 +2668,103 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s0a4OhA4hC .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s0al2NLKyP {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-s0aljhyglP {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #232323, #232323);
+}
+.cid-s0aljhyglP .image-block {
+  margin: auto;
+}
+.cid-s0aljhyglP figcaption {
+  position: relative;
+}
+.cid-s0aljhyglP figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s0aljhyglP .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s0alm2FBEo {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-s0alm2FBEo .counter-container {
+  color: #767676;
+}
+.cid-s0alm2FBEo .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-s0alm2FBEo .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-s0alm2FBEo .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #000000;
+  background: #ffffff;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-s0alm2FBEo .mbr-text {
+  color: #efefef;
+}
+.cid-s0alpUhFWD {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-s0alpUhFWD .mbr-text,
+.cid-s0alpUhFWD blockquote {
+  color: #767676;
+}
+.cid-s0alpUhFWD .mbr-text {
+  color: #efefef;
+}
+.cid-s0aloth5nj {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #232323, #232323);
+}
+.cid-s0aloth5nj .image-block {
+  margin: auto;
+}
+.cid-s0aloth5nj figcaption {
+  position: relative;
+}
+.cid-s0aloth5nj figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s0aloth5nj .image-block {
     width: 100% !important;
   }
 }
